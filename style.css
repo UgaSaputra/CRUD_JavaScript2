@@ -1,0 +1,19 @@
+body {
+    background: gray;
+    width: 10px;
+    height: 10px;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    height: 70px;
+}
+
+#form input {
+    border-radius: 10px;
+    width: 30px;
+    height: auto;
+}
+
